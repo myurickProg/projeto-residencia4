@@ -1,9 +1,9 @@
 # Primeiro crie um ambiente virtual:
 ### No terminal digite:
-`python -m venv .env`
+`python -m venv .venv`
 
 ### Ative o ambiente virtual:
-`.env/Scripts/activate`
+`.venv/Scripts/activate`
 
 # Instale os seguintes módulos já com o ambiente virtual ativado:
 
